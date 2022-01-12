@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Changed
 - Bump `Go` requirement to `1.18.0-beta1`.
+- Replace vfsgen with embed for ``cartridge create`` template.
 
 ## [2.11.0] - 2022-01-26
 
